@@ -17,12 +17,15 @@ export default function Holder() {
           alt={'Katsuko Saruhashi'}
           width={300}
           height={300}
+          
         />
+        <h1>Hello</h1>
       </Square>
       <Square>
         <label for="image"> 
           <b> Katsuko Saruhashi  </b>
         </label>
+        <h1>Hello</h1>
       </Square>
       
     </div>

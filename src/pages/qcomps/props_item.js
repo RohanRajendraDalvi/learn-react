@@ -1,4 +1,5 @@
 function Item({ name, isPacked }) {
+
   if (isPacked) {
     return <li className="item">{name} ✔</li>;
   }
