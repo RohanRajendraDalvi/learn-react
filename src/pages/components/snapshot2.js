@@ -8,7 +8,7 @@ export default function Form() {
     e.preventDefault();
     setTimeout(() => {
       alert(`You said ${message} to ${to}`);
-    }, 5000);
+    }, 400);
   }
 
   return (
